@@ -22,10 +22,10 @@ Master student
   - Grades: **3.12/4**  
   - Ranking: Not avaliable
 
-## Internship
+## Intern Experience
 
 
-## Honor
+## Prize & Honor
 
 
 ## Project
