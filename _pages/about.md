@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bin (Alex) Li Homepage"
+title: "Bin (Alex) Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,10 +18,10 @@ In the freshman year, I failed a 6 credit mathematics course, which resulted in 
 During the AMS data center, I learned the content of the RISCV instruction set, and implemented a simple operating system based on RISCV; I am recently studying hardware courses and reading some papers from  ISCA, HPCA, and MICRO. I am interested in hardware and software co-design, high-performance computing and dedicated accelerators.
 Thank you very much for reading my email during your busy schedule. After going through failure, I made it clear that I would like to dedicate my life to the study of science. If I have the opportunity to become your PhD student, I will definitely work harder. If not, I also hope to get your suggestion about how to apply for PhD without research results. (Resume and other documents are in the attachment. Here is the relevant report of my failure and hard study.)
 
-A data-driven personal website
+Internship
 ======
 
 
-Getting started
+Competition
 ======
 
