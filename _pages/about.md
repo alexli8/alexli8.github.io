@@ -12,12 +12,12 @@ Master student
 
 
 ## Education Background
-+ 2015.9--2019.6, B.S. degree, School of Mathemathics in Shandong University, China
++ B.S. in School of Mathemathics, Shandong University, China, 2015--2019
   - Major: **Computational Mathematics**
   - Grades: **4.46/5**  
   - Ranking: **1/28** ([pdf](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version pdf](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version pdf](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
-+ 2019.9--now,  M.S. degree,  School of Software and Microelectronics in Peking University,  China
++ M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--now
   - Major: **Computer Science**
   - Grades: **3.12/4**  
   - Ranking: Not avaliable
