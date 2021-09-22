@@ -20,7 +20,7 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 + B.S. in School of Mathemathics, Shandong University, China, 2015.9--2019.6
   - Major: **Computational Mathematics**
   - Grades: **4.46/5**  
-  - Ranking: **1/28** ([pdf](https://alexli8.github.io/files/ranking.pdf))
+  - Ranking: **1/28** ([certificate](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version pdf](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version pdf](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
   - Thesis: [A Survey on Graph Neural Network]()
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6
@@ -30,13 +30,11 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 
 ## Research Experience
 + Research internship in AMS data center of [Shandong Instituion of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
-  + AMS project Storage System analysis and parallel file system includes lustre and EOS.
-  + Computationnal Optimazation in 
-  + **
-+ Programming Teacher in [Coduck Education Technology Co., Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
-  + **
-+ Software engineer in Anseek Information Technology Ltd.(Startup company)  China, 2020.3--2020.12
-  + **
+  + Storage system  and parallel file system research includes lustre and EOS.
+  + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/). [(certificate)]()
+  + Summer camp in Shandong Instituion of Advanced Technology.
+  + security
++ Attending The 2nd National Big Data and Artificial Intelligence Conference, China, 2019.7. [(picture)]()
 
 
 ## Intern Experience 
