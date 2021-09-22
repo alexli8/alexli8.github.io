@@ -67,7 +67,7 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 
 
 ## Personal Project
-+ MiniOS based on RISCV instruction set.
++ SeekOS based on RISCV instruction set.
   + Function
   + Function
 
