@@ -39,13 +39,14 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
   + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate]()).
   + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate]()).
   + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](), [certificate]()).
++ Scholarships
+  + National Scholarship, China, 2019 ([certificate]())
+  + The First Prize Scholarship, Shandong University (twice, [2017certificate](), [2018certificate]())
 + Honors
   + Merit Student, Peking University, 2020. ([certificate]()).
   + Merit Student, Shandong University, 2018. ([certificate]()).
   + Excellent League Member, Shandong University, 2018. ([certificate]()).
-+ Scholarships
-  + National Scholarship, China, 2019 ([certificate]())
-  + The First Prize Scholarship, Shandong University (twice, [2017certificate](), [2018certificate]())
+
 
 
 ## Project
