@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 &emsp;&ensp;  I am currently a third-year master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. 
-I was recommended from Shandong University where I got B.S. degree with grades 4.46/5 and ranking 1/28 majoring in Computational Mathematics to Peking University in 2018. 
+I was recommended from Shandong University where I got B.S. degree with grades 4.46/5 and grades ranking 1/28 majoring in Computational Mathematics to Peking University in 2018. 
 I have excellent mathematics modeling and analysis ability, strong hands-on system building skills and highly motivation to solve challenging problems. 
 
-&emsp;&ensp;  In addition, I have the experience of facing failure and the courage to overcome difficulties. In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied hard to overcome difficulties in mathematics learning and got grades ranking 1/28 finally, which help me cultivate a solid foundation in mathematics. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
+&emsp;&ensp;  In addition, I have the experience of facing failure and the courage to overcome difficulties. In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied hard to overcome difficulties in mathematics learning which help me cultivate a solid foundation in mathematics and got grades ranking 1/28 finally. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
 
 &emsp;&ensp;  Below are my detailed experiences and corresponding electronic materials.  
 
@@ -32,6 +32,20 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 
 
 ## Awards & Honors
++ Mathematics Competition
+  + The Second Prize of Shandong Province in Mathematics competition for college students, China, 2017. ([certificate]()).
+  + The First Prize of Shandong Province in Mathematical Olympiad for Middle School Students, China, 2014.
++ Mathematics Modeling Contest
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate]()).
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate]()).
+  + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](), [certificate]()).
++ Honors
+  + Merit Student, Peking University, 2020. ([certificate]()).
+  + Merit Student, Shandong University, 2018. ([certificate]()).
+  + Excellent League Member, Shandong University, 2018. ([certificate]()).
++ Scholarships
+  + National Scholarship, China, 2019 ([certificate]())
+  + The First Prize Scholarship, Shandong University (twice, [2017certificate](), [2018certificate]())
 
 
 ## Project
