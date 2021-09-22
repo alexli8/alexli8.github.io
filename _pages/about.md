@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year master student in the School of Software and Microeletronics at Peking University, majoring in Computer Science. I was recommended from Shandong University where I got B.S. degree with grades 4.46/5 and ranking 1/28 majoring in Computational Mathematics to Peking University in 2018. I have excellent mathematics modeling and analysis ability, strong hands-on system building skills and highly motivation to solve challenging problems. 
+&emsp;&ensp;  I am currently a third-year master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. 
+I was recommended from Shandong University where I got B.S. degree with grades 4.46/5 and ranking 1/28 majoring in Computational Mathematics to Peking University in 2018. 
+I have excellent mathematics modeling and analysis ability, strong hands-on system building skills and highly motivation to solve challenging problems. 
 
-In addition, I have the experience of facing failure and the courage to overcome difficulties. In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied hard to overcome difficulties in mathematics learning and got grades ranking 1/28 finally, which help me cultivate a solid foundation in mathematics. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
+&emsp;&ensp;  In addition, I have the experience of facing failure and the courage to overcome difficulties. In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied hard to overcome difficulties in mathematics learning and got grades ranking 1/28 finally, which help me cultivate a solid foundation in mathematics. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
 
-Below are my detailed experiences and corresponding electronic materials.  
+&emsp;&ensp;  Below are my detailed experiences and corresponding electronic materials.  
 
 ## Education Background
 + B.S. in School of Mathemathics, Shandong University, China, 2015.9--2019.6
