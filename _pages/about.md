@@ -54,7 +54,7 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
   + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](https://alexli8.github.io/files/A201715010113_%E6%9D%8E%E6%96%8C_%E7%8E%8B%E6%B5%A9_%E5%BC%A0%E8%89%AF.pdf), [certificate](https://alexli8.github.io/files/modeling.Jpeg)).
 + Scholarships
   + National Scholarship, China, 2019 ([certificate]())
-  + The First Prize Scholarship, Shandong University, 2017 ([certificate)](https://alexli8.github.io/files/first%20prize.Jpeg)), 2018([certificate]())
+  + The First Prize Scholarship, Shandong University, 2017 ([certificate](https://alexli8.github.io/files/first%20prize.Jpeg)), 2018([certificate]())
 + Honors
   + Merit Student, Peking University, 2020. ([certificate]()).
   + Merit Student, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/merit%20student.Jpeg)).
@@ -71,7 +71,7 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 
 
 ## Volunteer Experience
-+ Educational volunteer activity from [AIESEC](https://aiesec.org/), Indonesia, 2018.2. ([certificate]())
++ Educational volunteer activity from [AIESEC](https://aiesec.org/), Indonesia, 2018.2. ([certificate](https://alexli8.github.io/files/%E5%BF%97%E6%84%BF%E8%AF%81%E6%98%8E.pdf))
 + Educational volunteer activity in Linyi City, Shandong Province, China, 2017.7.
 
 
