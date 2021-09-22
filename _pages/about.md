@@ -26,9 +26,24 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6
   - Major: **Computer Science**
   - Grades: **3.12/4**  
-  - Ranking: Not avaliable
 
-## Intern Experience
+
+## Research Experience
++ Research internship in AMS data center of [Shandong Instituion of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
+  + AMS project Storage System analysis and parallel file system includes lustre and EOS.
+  + Computationnal Optimazation in 
+  + **
++ Programming Teacher in [Coduck Education Technology Co., Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
+  + **
++ Software engineer in Anseek Information Technology Ltd.(Startup company)  China, 2020.3--2020.12
+  + **
+
+
+## Intern Experience 
++ Programming Teacher in [Coduck Education Technology Co., Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
+  + **
++ Software engineer in Anseek Information Technology Ltd.(Startup company)  China, 2020.3--2020.12
+  + **
 
 
 ## Awards & Honors
@@ -41,29 +56,32 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
   + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](), [certificate]()).
 + Scholarships
   + National Scholarship, China, 2019 ([certificate]())
-  + The First Prize Scholarship, Shandong University (twice, [2017certificate](), [2018certificate]())
+  + The First Prize Scholarship, Shandong University, 2017 ([certificate)]()), 2018([certificate]())
 + Honors
   + Merit Student, Peking University, 2020. ([certificate]()).
   + Merit Student, Shandong University, 2018. ([certificate]()).
+  + Excellent Student Cadre, Shandong University, 2018. ([certificate]()).
   + Excellent League Member, Shandong University, 2018. ([certificate]()).
+  + The Third Prize of Shandong University Cup Debate Competition, Shandong University, 2016. ([certificate]())
+  + The First Prize of Six Departments Invitational Debate Competition, Shandong University, 2015. ([certificate]())
 
 
-
-## Project
+## Personal Project
++ MiniOS based on RISCV instruction set.
+  + Function
+  + Function
 
 
 ## Volunteer Experience
++ Educational volunteer activity from [AIESEC](https://aiesec.org/), Indonesia, 2018.2. ([certificate]())
++ Educational volunteer activity in Linyi City, Shandong Province, China, 2017.7.
 
 
 ## English 
 + GRE: **318**
-  - Verbal Reasoning:150
-  - Quantitative Reasiong: 168 
-  - Analytical Write: 3.0
+  - Verbal Reasoning:150 &emsp;&ensp; Quantitative Reasiong: 168 &emsp;&ensp; Analytical Write: 3.0 
   - [Transcript (pdf)](https://alexli8.github.io/files/GRE.pdf)
 + CET-6: **533**
-  - Listening: 150
-  - Reading: 223
-  - Writing: 157
+  - Listening: 150 &emsp;&ensp; Reading: 223  &emsp;&ensp; Writing: 157
   - [Transcript (pdf)](https://alexli8.github.io/files/CET6.pdf)
 
