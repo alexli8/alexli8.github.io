@@ -29,12 +29,12 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 
 
 ## Research Experience
-+ Research internship in AMS data center of [Shandong Instituion of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
++ Research intern in AMS data center of [Shandong Instituion of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
   + Storage system  and parallel file system research includes lustre and EOS.
   + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/). [(certificate)]()
   + Summer camp in Shandong Instituion of Advanced Technology.
   + security
-+ Attending The 2nd National Big Data and Artificial Intelligence Conference, China, 2019.7. [(picture)]()
++ Attending The 2nd National Big Data and Artificial Intelligence Conference, China, 2019.7.
 
 
 ## Intern Experience 
