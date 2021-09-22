@@ -18,14 +18,14 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 
 ## Education Background
 + B.S. in School of Mathemathics, Shandong University, China, 2015.9--2019.6
-  - Major: **Computational Mathematics**
-  - Grades: **4.46/5**  
-  - Ranking: **1/28** ([certificate](https://alexli8.github.io/files/ranking.pdf))
+  - Major: Computational Mathematics
+  - Grades: 4.46/5
+  - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version pdf](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version pdf](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
   - Thesis: [A Survey on Graph Neural Network]()
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6
-  - Major: **Computer Science**
-  - Grades: **3.12/4**  
+  - Major: Computer Science
+  - Grades: 3.12/4 
 
 
 ## Research Experience
@@ -76,10 +76,10 @@ I have excellent mathematics modeling and analysis ability, strong hands-on syst
 
 
 ## English 
-+ GRE: **318**
++ GRE: 318
   - Verbal Reasoning:150 &emsp;&ensp; Quantitative Reasiong: 168 &emsp;&ensp; Analytical Write: 3.0 
   - [Transcript (pdf)](https://alexli8.github.io/files/GRE.pdf)
-+ CET-6: **533**
++ CET-6: 533
   - Listening: 150 &emsp;&ensp; Reading: 223  &emsp;&ensp; Writing: 157
   - [Transcript (pdf)](https://alexli8.github.io/files/CET6.pdf)
 
