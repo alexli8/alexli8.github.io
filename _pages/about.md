@@ -10,7 +10,7 @@ redirect_from:
 
 &emsp;&ensp;  I am currently a third-year master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. 
 I was recommended from Shandong University where I got B.S. degree with grades 4.46/5 and grades ranking 1/28 majoring in Computational Mathematics to Peking University in 2018. 
-I have excellent mathematical modeling and analysis ability, strong hands-on system building skills and highly motivation to solve challenging problems. 
+I have participated in many mathematical competitions and mathematical modeling contests. Therefore, I have excellent mathematical modeling and analysis ability, strong hands-on system building skills and highly motivation to solve challenging problems.
 
 &emsp;&ensp;  In addition, I have the experience of facing failure and the courage to overcome difficulties. In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied hard to overcome difficulties in mathematics learning which help me cultivate a solid foundation in mathematics and got grades ranking 1/28 finally. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
 
@@ -50,11 +50,11 @@ I have excellent mathematical modeling and analysis ability, strong hands-on sys
 
 
 ## Awards & Honors
-+ Mathematics Competition
++ Mathematical Competition
   + The Third Prize of The 9th National Mathematics Competition for College Students, China, 2017. ([certificate](https://alexli8.github.io/files/national%20math.jpg))
   + The Second Prize of The 8th Shandong Province College Student Mathematics Competition, China, 2017. ([certificate](https://alexli8.github.io/files/mathematics%20competation.jpg))
   + The First Prize of Shandong Province in Mathematical Olympiad for Middle School Students, China, 2014.
-+ Mathematics Modeling Contest
++ Mathematical Modeling Contest
   + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate](https://alexli8.github.io/files/MCM%202018.jpg)).
   + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate](https://alexli8.github.io/files/MCM%202017.jpg)).
   + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](https://alexli8.github.io/files/A201715010113_%E6%9D%8E%E6%96%8C_%E7%8E%8B%E6%B5%A9_%E5%BC%A0%E8%89%AF.pdf), [certificate](https://alexli8.github.io/files/modeling.jpg)).
