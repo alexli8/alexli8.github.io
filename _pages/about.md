@@ -43,7 +43,7 @@ I have excellent mathematical modeling and analysis ability, strong hands-on sys
   + Development of [National Olympiad in Informatics](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B) courses for middle school students expecially in Computational Geometry.
   + Holding Coduck Training Summer Camp.
 + Software engineer in Anseek Information Technology Ltd.(Startup company)  China, 2020.3--2020.12
-  + Developing news recommendation web application which cao provide different educational information to different students. 
+  + Developing news recommendation web application which can provide different educational information to different students. 
   + The programing language is javascript and python. 
 
 
