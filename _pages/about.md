@@ -15,7 +15,7 @@ I have excellent mathematical modeling and analysis ability, strong hands-on sys
 
 &emsp;&ensp;  In addition, I have the experience of facing failure and the courage to overcome difficulties. In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied hard to overcome difficulties in mathematics learning which help me cultivate a solid foundation in mathematics and got grades ranking 1/28 finally. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
 
-&emsp;&ensp;  Except mathematical modeling contest papar, I have no publication because of my professional master degree in Peking University which requires me to complete a one-year internship. I have finished two company internship experiences and now I am doing a research intern in [Shandong Instituion of Advanced Technology](http://www.sdiat.cn/).
+&emsp;&ensp;  Except mathematical modeling contest papar, I have no publication because of my professional master degree in Peking University which requires me to complete a one-year internship. After finished two company internships, I realized that I wanted to engage in scientific research and solve the problems of science and technology. Now I am doing a research intern in [Shandong Instituion of Advanced Technology](http://www.sdiat.cn/).
 
 &emsp;&ensp;  Below are my detailed experiences and corresponding electronic materials.  
 
