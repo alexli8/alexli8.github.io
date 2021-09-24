@@ -84,8 +84,8 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
 ## English 
 + GRE: 318
   - Verbal Reasoning:150 &emsp;&ensp; Quantitative Reasiong: 168 &emsp;&ensp; Analytical Write: 3.0 
-  - [Transcript (pdf)](https://alexli8.github.io/files/GRE.pdf)
+  - [Transcript](https://alexli8.github.io/files/GRE.pdf)
 + CET-6: 533
   - Listening: 150 &emsp;&ensp; Reading: 223  &emsp;&ensp; Writing: 157
-  - [Transcript (pdf)](https://alexli8.github.io/files/CET6.pdf)
+  - [Transcript](https://alexli8.github.io/files/CET6.pdf)
 
