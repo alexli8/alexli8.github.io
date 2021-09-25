@@ -27,7 +27,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
-  - - Academic Transcript: [English version](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
+  - Academic Transcript: [English version](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
   - Note:Professional Master Degree
 
 
@@ -44,7 +44,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
 + Course development in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
   + Development of [National Olympiad in Informatics](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B) courses for middle school students expecially in Computational Geometry.
   + Holding Coduck Training Summer Camp.
-+ Software engineer in Anseek Information Technology Ltd.(Startup company)  China, 2020.3--2020.12
++ Software engineer in Anseek Information Technology Ltd. China, 2020.3--2020.12
   + Developing news recommendation web application which can provide different educational information to different students. 
   + The programing language is javascript and python. 
 
