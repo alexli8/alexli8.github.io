@@ -29,7 +29,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
   - Grades: 3.12/4
   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
   
-  - Note:Professional Master Degree
+  - Note: Professional Master Degree
 
 
 ## Research Experience
