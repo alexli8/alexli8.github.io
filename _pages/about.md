@@ -22,12 +22,13 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
   - Major: Computational Mathematics
   - Grades: 4.57/5
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
-  - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
+  - Academic Transcript: [English version](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
   - Thesis: [A Survey on Graph Neural Network]()
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
-  - Academic Transcript: [English version](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
+  - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
+  
   - Note:Professional Master Degree
 
 
