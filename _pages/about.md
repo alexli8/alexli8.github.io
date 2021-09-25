@@ -22,11 +22,12 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
   - Major: Computational Mathematics
   - Grades: 4.57/5
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
-  - Academic Transcript: [English version](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
+  - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
   - Thesis: [A Survey on Graph Neural Network]()
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
+  - - Academic Transcript: [English version](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
   - Note:Professional Master Degree
 
 
@@ -48,7 +49,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
   + The programing language is javascript and python. 
 
 
-## Awards & Honors
+## Competitions & Awards
 + Mathematical Competitions
   + The Third Prize of The 9th National Mathematics Competition for College Students, China, 2017. ([certificate](https://alexli8.github.io/files/national%20math.jpg))
   + The Second Prize of The 8th Shandong Province College Student Mathematics Competition, China, 2017. ([certificate](https://alexli8.github.io/files/mathematics%20competation.jpg))
@@ -57,6 +58,9 @@ I graduated from Shandong University where I got B.S. degree with grades 4.46/5 
   + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate](https://alexli8.github.io/files/MCM%202018.jpg)).
   + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate](https://alexli8.github.io/files/MCM%202017.jpg)).
   + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](https://alexli8.github.io/files/A201715010113_%E6%9D%8E%E6%96%8C_%E7%8E%8B%E6%B5%A9_%E5%BC%A0%E8%89%AF.pdf), [certificate](https://alexli8.github.io/files/modeling.jpg)).
+
+
+## Scholarships & Honors
 + Scholarships
   + National Scholarship, China, 2018 ([certificate]())
   + The First Prize Scholarship, Shandong University, 2018([certificate]())
