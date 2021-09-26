@@ -32,7 +32,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   - Note: Professional Master Degree
 
 
-## Research Experience
+## Research Experiences
 + Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
   + Storage system  and parallel file system research includes lustre and EOS.
   + Summer camp in Shandong Instituion of Advanced Technology.
@@ -41,7 +41,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
 + Attending The 2nd National Big Data and Artificial Intelligence Conference, China, 2019.7.
 
 
-## Intern Experience 
+## Intern Experiences
 + Course development in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
   + Development of [National Olympiad in Informatics](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B) courses for middle school students expecially in Computational Geometry.
   + Holding Coduck Training Summer Camp.
@@ -82,7 +82,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   + Function
 
 
-## Volunteer Experience
+## Volunteer Experiences
 + Educational volunteer activity from [AIESEC](https://aiesec.org/), Indonesia, 2018.2. ([certificate](https://alexli8.github.io/files/%E5%BF%97%E6%84%BF%E8%AF%81%E6%98%8E.pdf))
 + Educational volunteer activity in Linyi City, Shandong Province, China, 2017.7.
 
