@@ -22,7 +22,7 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   - Major: Computational Mathematics
   - Grades: 4.57/5
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
-  - Academic Transcript: [English version](https://alexli8.github.io/files/English%20Transcript.pdf), [Chinese version](https://alexli8.github.io/files/Chinese%20Transcript.pdf)
+  - Academic Transcript: [English version](https://alexli8.github.io/files/files/english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/chinese%20transcipt.pdf)
   - Thesis: [A Survey on Graph Neural Network]()
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
   - Major: Computer Science
@@ -63,13 +63,13 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
 
 ## Scholarships & Honors
 + Scholarships
-  + National Scholarship, China, 2018 ([certificate]())
-  + The First Prize Scholarship, Shandong University, 2018([certificate]())
+  + National Scholarship, China, 2018 ([certificate](https://alexli8.github.io/files/national%20scholarship.pdf))
+  + The First Prize Scholarship, Shandong University, 2018([certificate](https://alexli8.github.io/files/fitst%20scholarship.pdf))
   + The First Prize Scholarship, Shandong University, 2017 ([certificate](https://alexli8.github.io/files/first%20prize.jpg))
 + Honors
-  + Merit Student, Peking University, 2020. ([certificate]()).
+  + Merit Student, Peking University, 2020. ([certificate](https://alexli8.github.io/files/merit%20student%202018.pdf)).
   + Merit Student, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/merit%20student.jpg)).
-  + Excellent Student Cadre, Shandong University, 2018. ([certificate]()).
+  + Excellent Student Cadre, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/excellent%20student.pdf)).
   + Excellent League Member, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/league%20member.jpg)).
   + The Third Prize of Shandong University Cup Debate Competition, Shandong University, 2016. ([certificate](https://alexli8.github.io/files/Shandong%20Cup.jpg))
   + The First Prize of Six Departments Invitational Debate Competition, Shandong University, 2015. ([certificate](https://alexli8.github.io/files/six%20department%20cup.jpg))
