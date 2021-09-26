@@ -56,8 +56,8 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   + The Second Prize of The 8th Shandong Province College Student Mathematics Competition, China, 2017. ([certificate](https://alexli8.github.io/files/mathematics%20competation.jpg))
   + The First Prize of Shandong Province in Mathematical Olympiad for Middle School Students, China, 2014.
 + Mathematical Modeling Contests
-  + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate](https://alexli8.github.io/files/MCM%202018.jpg))
-  + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate](https://alexli8.github.io/files/MCM%202017.jpg))
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([paper](https://alexli8.github.io/files/MCM2018.pdf), [certificate](https://alexli8.github.io/files/MCM%202018.jpg))
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](https://alexli8.github.io/files/MCM2017.pdf), [certificate](https://alexli8.github.io/files/MCM%202017.jpg))
   + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](https://alexli8.github.io/files/A201715010113_%E6%9D%8E%E6%96%8C_%E7%8E%8B%E6%B5%A9_%E5%BC%A0%E8%89%AF.pdf), [certificate](https://alexli8.github.io/files/modeling.jpg))
 
 
