@@ -56,9 +56,9 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   + The Second Prize of The 8th Shandong Province College Student Mathematics Competition, China, 2017. ([certificate](https://alexli8.github.io/files/mathematics%20competation.jpg))
   + The First Prize of Shandong Province in Mathematical Olympiad for Middle School Students, China, 2014.
 + Mathematical Modeling Contests
-  + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate](https://alexli8.github.io/files/MCM%202018.jpg)).
-  + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate](https://alexli8.github.io/files/MCM%202017.jpg)).
-  + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](https://alexli8.github.io/files/A201715010113_%E6%9D%8E%E6%96%8C_%E7%8E%8B%E6%B5%A9_%E5%BC%A0%E8%89%AF.pdf), [certificate](https://alexli8.github.io/files/modeling.jpg)).
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate](https://alexli8.github.io/files/MCM%202018.jpg))
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate](https://alexli8.github.io/files/MCM%202017.jpg))
+  + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](https://alexli8.github.io/files/A201715010113_%E6%9D%8E%E6%96%8C_%E7%8E%8B%E6%B5%A9_%E5%BC%A0%E8%89%AF.pdf), [certificate](https://alexli8.github.io/files/modeling.jpg))
 
 
 ## Scholarships & Honors
@@ -68,10 +68,10 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   + The First Prize Scholarship, Shandong University, 2017 ([certificate](https://alexli8.github.io/files/first%20prize.jpg))
 + Honors
   + Merit Student, Peking University, 2020. ([certificate]()).
-  + Merit Student, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/merit%20student%202018.pdf)).
-  + Excellent Student Cadre, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/excellent%20student.pdf)).
-  + Excellent League Member, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/league%20member.jpg)).
-  + Merit Student, Shandong University, 2017. ([certificate](https://alexli8.github.io/files/merit%20student.jpg)).
+  + Merit Student, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/merit%20student%202018.pdf))
+  + Excellent Student Cadre, Shandong University, 2018. ([certificate](https://alexli8.github.io/files/excellent%20student.pdf))
+  + Merit Student, Shandong University, 2017. ([certificate](https://alexli8.github.io/files/merit%20student.jpg))
+  + Excellent League Member, Shandong University, 2016. ([certificate](https://alexli8.github.io/files/league%20member.jpg))
   + The Third Prize of Shandong University Cup Debate Competition, Shandong University, 2016. ([certificate](https://alexli8.github.io/files/Shandong%20Cup.jpg))
   + The First Prize of Six Departments Invitational Debate Competition, Shandong University, 2015. ([certificate](https://alexli8.github.io/files/six%20department%20cup.jpg))
 
