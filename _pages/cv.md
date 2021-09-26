@@ -9,51 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+Resume
+======
++ [English version]()
++ [Chinese version]()
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
++ B.S. in School of Mathemathics, Shandong University, China, 2015.9--2019.6
++ M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
 
-Work experience
+
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
++ Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
+  + Storage system  and parallel file system research includes lustre and EOS.
+  + Summer camp in Shandong Instituion of Advanced Technology.
+  + security
++ Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+Contest Papers
+=====
++ Mathematical Modeling Contests
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2018. ([certificate](https://alexli8.github.io/files/MCM%202018.jpg))
+  + Honorable Mention in Mathematical Contest in Modeling, America, 2017. ([paper](), [certificate](https://alexli8.github.io/files/MCM%202017.jpg))
+  + The First Prize of Shandong Province in Mathematics Modeling Contest for college students, China, 2017. ([paper](https://alexli8.github.io/files/A201715010113_%E6%9D%8E%E6%96%8C_%E7%8E%8B%E6%B5%A9_%E5%BC%A0%E8%89%AF.pdf), [certificate](https://alexli8.github.io/files/modeling.jpg))
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: C++, Python, Javascript
+* English: GRE 318; CET6 533
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
