@@ -19,7 +19,7 @@ redirect_from:
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
 
 
-## Research Experience
+## Research Experiences
 + Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
   + Storage system  and parallel file system research includes lustre and EOS.
   + Summer camp in Shandong Instituion of Advanced Technology.
