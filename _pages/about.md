@@ -77,9 +77,9 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
 
 
 ## Personal Project
-+ SeekOS based on RISCV instruction set.
-  + Function
-  + Function
++ [seekOS](https://github.com/alexli8/seekOS)
+  + Based on the RISCV instruction set, this is a simple 32-bit operating system implemented on the Qemu simulation, which only simulates the operation of a hart, and the current function is very simple
+  + Function: physical memory management, context switch, exception handling, peripheral interrupt processing, timer interrupt, synchronization and lock, system call
 
 
 ## Volunteer Experiences
@@ -95,3 +95,5 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   - Listening: 150 &emsp;&ensp; Reading: 223  &emsp;&ensp; Writing: 157
   - [Transcript](https://alexli8.github.io/files/CET6.pdf)
 
+## Skills
+* Programming language: RISCV assembly language, C, C++, Python, Javascript
