@@ -35,7 +35,7 @@ redirect_from:
 
 
 ## Skills
-* Programming language: C++, Python, Javascript
+* Programming language: RISCV assembly language, C, C++, Python, Javascript
 * English: GRE 318; CET6 533
 
 
