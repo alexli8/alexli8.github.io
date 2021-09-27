@@ -11,7 +11,7 @@ redirect_from:
 
 ## Resume
 + [English version]()
-+ [Chinese version]()
++ [Chinese version](https://alexli8.github.io/files/中文简历(对齐).pdf)
 
 
 ## Education
