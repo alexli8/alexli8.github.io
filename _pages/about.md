@@ -34,9 +34,9 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
 
 ## Research Experiences
 + Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
-  + Storage system  and parallel file system research includes lustre and EOS.
+  + Storage system  and parallel file system research includes lustre, EOS and openZFS.
+  + Learning software and hardware co-design, dedicated accelerators, RISCV instruction set, high-performance computing and quantum computing.
   + Summer camp in Shandong Instituion of Advanced Technology.
-  + security
 + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
 + Attending The 2nd National Big Data and Artificial Intelligence Conference, China, 2019.7.
 
