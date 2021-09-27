@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage "
 title_separator          : "-"
-name                     : &name "Alex Li"
+name                     : &name "Bin Li"
 description              : &description "personal description"
 url                      : https://alexli8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bin (Alex) Li"
+  name             : "Bin Li"
   avatar           : "profile.jpg"
   bio              : "Master student in PKU"
   location         : "Peking University, China"
