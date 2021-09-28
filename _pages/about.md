@@ -11,7 +11,7 @@ redirect_from:
 &emsp;&ensp;  I am currently a master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. 
 I graduated from Shandong University where I got B.S. degree with grades 4.57/5 and grades ranking 1/28 majoring in Computational Mathematics. In 2019, I was admitted to Peking University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate excellent mathematical modeling and analysis ability, strong hands-on system building skills and highly motivation to solve challenging problems. 
 
-&emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete a one-year internship. After finished two company internships,  now I am  a research intern in [Shandong Institute of Advanced Technology](http://www.sdiat.cn/) and I focus on storage system, optimization and co-design of algorithms, software and hardware.
+&emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete a one-year internship. After finished two company internships,  now I am  a research intern in [Shandong Institute of Advanced Technology](http://www.sdiat.cn/) and I focus on  optimization and co-design of algorithms, software and hardware.
 
 &emsp;&ensp;  In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied very hard to overcome difficulties in mathematics learning and got grades ranking 1/28 finally.  During this period, I chose various courses and developed solid mathematics foundation. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
 
@@ -25,11 +25,12 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version](https://alexli8.github.io/files/english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/chinese%20transcipt.pdf)
   - Thesis: A Survey on Graph Neural Network
+  - Advised by Prof. [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
-  
+  - Advised by Prof. [Xiangqun Chen](https://eecs.pku.edu.cn/info/1338/7117.htm)
   - Note: Professional Master Degree
 
 
