@@ -29,9 +29,9 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
-  - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
   - Advised by Prof. [Xiangqun Chen](https://eecs.pku.edu.cn/info/1338/7117.htm)
   - Note: Professional Master Degree
+<!--   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf) -->
 
 
 ## Research Experiences
