@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  I am currently a master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. 
-I graduated from Shandong University where I got B.S. degree with grades 4.57/5 and grades ranking 1/28 majoring in Computational Mathematics. In 2019, I was admitted to Peking University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate excellent mathematical modeling and analysis ability, strong hands-on system building skills and highly motivation to solve challenging problems. 
+&emsp;&ensp;  I am currently a master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. I  am interested in theoretical computer science and its interplay with combinatorics, algebra and analysis.
 
-&emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete an one-year internship. After finished two company internships,  now I am  a research intern in [Shandong Institute of Advanced Technology](http://www.sdiat.cn/).
+&emsp;&ensp; I received my B.S. degree in School of Mathematics from Shandong University, China. My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one national scholarship and two first-class scholarships at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
-&emsp;&ensp;  In my freshman year, I failed a 6 credits mathematics course, which resulted in my grades ranking being 23/28. In the next two years, I studied very hard to overcome difficulties in mathematics learning and got grades ranking 1/28 finally.  During this period, I chose various courses and developed solid mathematics foundation. Meanwhile, I received lots of awards, honors and scholarships. [Here](https://mp.weixin.qq.com/s/8xiYZdwlquxZYcx8gpXJ6Q) is related Chinese report from Shandong University official media .
+&emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete an one-year internship. Recently, I am applying Ph.D and research intern in theoretical computer science.
 
 &emsp;&ensp;  Below are my detailed experiences and corresponding electronic materials.  
 
@@ -37,7 +36,6 @@ I graduated from Shandong University where I got B.S. degree with grades 4.57/5 
 ## Research Experiences
 + Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
   + Storage system  and parallel file system research includes lustre, EOS and openZFS.
-  + Learning software and hardware co-design, dedicated accelerators, RISCV instruction set, high-performance computing and quantum computing.
   + Summer camp in Shandong Instituion of Advanced Technology.
 + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
 + Attending The 2nd National Big Data and Artificial Intelligence Conference, China, 2019.7.
