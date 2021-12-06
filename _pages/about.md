@@ -96,4 +96,4 @@ redirect_from:
   - [Transcript](https://alexli8.github.io/files/CET6.pdf)
 
 ## Skills
-* Programming language: RISCV assembly language, C, C++, Python, Javascript
+* Programming language: C, C++, Python, Javascript
