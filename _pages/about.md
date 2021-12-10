@@ -14,7 +14,7 @@ redirect_from:
 
 &emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete an one-year internship. 
 
-&emsp;&ensp;  Recently, I am applying Ph.D and research intern in theoretical computer science. Below are my detailed experiences and corresponding electronic materials.  
+&emsp;&ensp;  Recently, I am applying Ph.D and research intern in theoretical computer science and combinatorics. Below are my detailed experiences and corresponding electronic materials.  
 
 
 ## Education Background
