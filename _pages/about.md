@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  I am currently a master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. I  am interested in theoretical computer science and its interplay with combinatorics, algebra and analysis.
+&emsp;&ensp;  I am currently a master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. I  am interested in combinatorics, theoretical computer science and their interplay with algebra and analysis.
 
 &emsp;&ensp; I received my B.S. degree in School of Mathematics from Shandong University, China. My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one national scholarship and two first-class scholarships at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
 &emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete an one-year internship. 
 
-&emsp;&ensp;  Recently, I am applying Ph.D and research intern in theoretical computer science and combinatorics. Below are my detailed experiences and corresponding electronic materials.  
+&emsp;&ensp;  Recently, I am applying Ph.D and research intern in combinatorics and theoretical computer science. Below are my detailed experiences and corresponding electronic materials.  
 
 
 ## Education Background
