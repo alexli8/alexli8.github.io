@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  I am currently a master student in the School of Software and Microeletronics at Peking University and my major is Computer Science. I  am interested in theoretical computer science, combinatorics and their interplay with algebra and analysis.
+&emsp;&ensp;  I am currently a master student in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/) and my major is Computer Science. I  am interested in theoretical computer science, combinatorics and their interplay with algebra and analysis.
 
-&emsp;&ensp; I received my B.S. degree in School of Mathematics from Shandong University, China. My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one national scholarship and two first-class scholarships at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
+&emsp;&ensp; I received my B.S. degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/), China. My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
 &emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete an one-year internship. 
 
@@ -28,6 +28,7 @@ redirect_from:
 + M.S. in [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/),  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
+  - - Academic Transcript: [English version](https://alexli8.github.io/files/english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/chinese%20transcipt.pdf)
   - Advised by Prof. [Xiangqun Chen](https://eecs.pku.edu.cn/info/1338/7117.htm)
   - Note: Professional Master Degree
 <!--   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf) -->
