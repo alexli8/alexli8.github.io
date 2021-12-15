@@ -18,14 +18,14 @@ redirect_from:
 
 
 ## Education Background
-+ B.S. in School of Mathemathics, Shandong University, China, 2015.9--2019.6
++ B.S. in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm), [Shandong University](https://www.en.sdu.edu.cn/), China, 2015.9--2019.6
   - Major: Computational Mathematics
   - Grades: 4.57/5
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version](https://alexli8.github.io/files/english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/chinese%20transcipt.pdf)
   - Thesis: A Survey on Graph Neural Network
   - Advised by Prof. [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
-+ M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
++ M.S. in [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/),  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
   - Advised by Prof. [Xiangqun Chen](https://eecs.pku.edu.cn/info/1338/7117.htm)
