@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Resume
-+ [English version]()
++ [English version](https://alexli8.github.io/files/cv.pdf)
 + [Chinese version](https://alexli8.github.io/files/李斌中文简历.pdf)
 
 
