@@ -35,7 +35,7 @@ redirect_from:
 
 
 ## Intern Experiences
-+ Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
++ Engineer in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
   + Storage system  and parallel file system research includes lustre, EOS and openZFS.
   + Summer camp in Shandong Institute of Advanced Technology.
   + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
