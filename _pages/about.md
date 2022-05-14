@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  I am currently a master student in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/) and my major is Computer Science. I  am interested in theoretical computer science and its interplay with combinatorics, algebra and analysis.
+&emsp;&ensp;  I am currently a master student in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/) and my major is Computer Science. My interests are algebraic topology, topology&geometry in machine learning and topological data analysis for biology and medchine.
 
 &emsp;&ensp; I received my B.S. degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/), China. My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
-&emsp;&ensp;  In addition, I am enthusiastic about research and have tenacity to face failure. Except mathematical modeling contest papar, I have no publication for now because of my professional master degree in Peking University which requires me to complete an one-year internship. 
-
-&emsp;&ensp;  Recently, I am applying Ph.D and research intern in  theoretical computer science. Below are my detailed experiences and corresponding electronic materials.  
+&emsp;&ensp;  I am going to apply Ph.D position in algebraic topology and topological data analysis in 2023. Below are my detailed experiences and corresponding electronic materials.  
 
 
 ## Education Background
@@ -88,9 +86,9 @@ redirect_from:
 + GRE: 318
   - Verbal Reasoning:150 &emsp;&ensp; Quantitative Reasiong: 168 &emsp;&ensp; Analytical Write: 3.0 
   - [Transcript](https://alexli8.github.io/files/GRE.pdf)
-+ CET-6: 533
-  - Listening: 150 &emsp;&ensp; Reading: 223  &emsp;&ensp; Writing: 157
-  - [Transcript](https://alexli8.github.io/files/CET6.pdf)
++ ITELS: 6.5
+  - Listening: 5.5 &emsp;&ensp; Reading: 8.0  &emsp;&ensp; Writing: 6.0 &emsp;&ensp; Speaking: 5.5
+
 
 ## Skills
 * Programming language: C, C++, Python, Javascript
