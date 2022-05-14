@@ -71,10 +71,10 @@ redirect_from:
   + The First Prize of Six Departments Invitational Debate Competition, Shandong University, 2015. ([certificate](https://alexli8.github.io/files/six%20department%20cup.jpg))
 
 
-## Personal Project
+<!-- ## Personal Project
 + [seekOS](https://github.com/alexli8/seekOS)
   + Based on the RISCV instruction set, this is a simple 32-bit operating system implemented on the Qemu simulation, which only simulates the operation of a hart, and the current function is very simple
-  + Function: physical memory management, context switch, exception handling, peripheral interrupt processing, timer interrupt, synchronization and lock, system call
+  + Function: physical memory management, context switch, exception handling, peripheral interrupt processing, timer interrupt, synchronization and lock, system call -->
 
 
 ## Volunteer Experiences
