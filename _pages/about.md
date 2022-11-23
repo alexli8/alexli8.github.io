@@ -21,7 +21,7 @@ redirect_from:
   - Grades: 4.57/5
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version](https://alexli8.github.io/files/english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/chinese%20transcipt.pdf)
-  - Thesis: A Survey on Graph Neural Network
+<!--   - Thesis: A Survey on Graph Neural Network -->
 <!--   - Advised by Prof. [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm) -->
 + M.S. in [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/),  China, 2019.9--2022.6(expected)
   - Major: Computer Science
@@ -35,14 +35,14 @@ redirect_from:
 ## Internships & Startups
 + Engineer intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
   + Storage system  and parallel file system research includes lustre, EOS and openZFS.
-  + Summer camp in Shandong Institute of Advanced Technology.
+  + Information system development for AMS data center.
   + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
 + Course development in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
   + Development of [National Olympiad in Informatics](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B) courses for middle school students expecially in Computational Geometry.
-  + Holding Coduck Training Summer Camp.
-+ Manager and Software engineer in Anseek Information Technology Ltd. China, 2020.6--2020.12
+  + Planning and holding Coduck Training Summer Camp.
++ Manager and Software engineer in Anseek Information Technology Ltd. China, 2020.3--2021.1
+  + Managing the Contents team to produce passages and videos for offcial accounts.
   + Developing news recommendation web application which can provide different educational information to different students. 
-  + The programing language is javascript and python. 
 
 
 ## Competitions & Awards
