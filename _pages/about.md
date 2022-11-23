@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  I am currently a master student in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/) and my major is Computer Science. My interests are algebraic topology, topology&geometry in machine learning and its application for biology and medicine.
+&emsp;&ensp;  I am currently a master student in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/) and my major is Computer Science. My interests are topological data analysis, machine learning and bioinformatics. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives. 
 
 &emsp;&ensp; I received my B.S. degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/), China. My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
-&emsp;&ensp;  I am going to apply Ph.D position in algebraic topology and topological data analysis in 2023. Below are my detailed experiences and corresponding electronic materials.  
+&emsp;&ensp;  In 2020, I took a gap year and chose to run a starups with my classmates. Though our attempts failed, I gained lots of valuable experience and figured out my goal for life, which is to think and solve significant problems for human and society. I am going to apply Ph.D position in combinations of topological data analysis, machine learning and bioinformatics in 2023. Below are my detailed experiences and corresponding electronic materials.  
 
 
 ## Education Background
@@ -22,25 +22,25 @@ redirect_from:
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version](https://alexli8.github.io/files/english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/chinese%20transcipt.pdf)
   - Thesis: A Survey on Graph Neural Network
-  - Advised by Prof. [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)
+<!--   - Advised by Prof. [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm) -->
 + M.S. in [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/),  China, 2019.9--2022.6(expected)
   - Major: Computer Science
   - Grades: 3.12/4
   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
-  - Advised by Prof. [Xiangqun Chen](https://eecs.pku.edu.cn/info/1338/7117.htm)
+<!--   - Advised by Prof. [Xiangqun Chen](https://eecs.pku.edu.cn/info/1338/7117.htm) -->
   - Note: Professional Master Degree
 <!--   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf) -->
 
 
-## Internships
-+ Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
+## Internships & Startups
++ Engineer intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
   + Storage system  and parallel file system research includes lustre, EOS and openZFS.
   + Summer camp in Shandong Institute of Advanced Technology.
   + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
 + Course development in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
   + Development of [National Olympiad in Informatics](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B) courses for middle school students expecially in Computational Geometry.
   + Holding Coduck Training Summer Camp.
-+ Software engineer in Anseek Information Technology Ltd. China, 2020.6--2020.12
++ Manager and Software engineer in Anseek Information Technology Ltd. China, 2020.6--2020.12
   + Developing news recommendation web application which can provide different educational information to different students. 
   + The programing language is javascript and python. 
 
