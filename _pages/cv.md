@@ -13,18 +13,10 @@ redirect_from:
 + [English version](https://alexli8.github.io/files/cv.pdf)
 + [Chinese version](https://alexli8.github.io/files/李斌中文简历.pdf)
 
-
+<!-- 
 ## Education
 + B.S. in School of Mathemathics, Shandong University, China, 2015.9--2019.6
 + M.S. in School of Software and Microelectronics, Peking University,  China, 2019.9--2022.6(expected)
-
-
-## Research Experiences
-+ Research intern in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--2021.12
-  + Storage system  and parallel file system research includes lustre and EOS.
-  + Summer camp in Shandong Instituion of Advanced Technology.
-  + security
-+ Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
 
 
 ## Contest Papers
@@ -36,7 +28,7 @@ redirect_from:
 
 ## Skills
 * Programming language: RISCV assembly language, C, C++, Python, Javascript
-* English: GRE 318; CET6 533
+* English: GRE 318; CET6 533 -->
 
 
 <!-- Publications
