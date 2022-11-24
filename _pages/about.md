@@ -93,6 +93,9 @@ redirect_from:
 ## Skills
 * Programming language: C, C++, Python, Javascript
 
+## Resume
++ [English version](https://alexli8.github.io/files/cv.pdf)
++ [Chinese version](https://alexli8.github.io/files/李斌中文简历.pdf)
 
 ## Channels
 * bilibili: [案寻谨川](https://space.bilibili.com/457802405)
