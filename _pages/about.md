@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  My interests are topological data analysis, machine learning and bioinformatics. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives. I received my master degree in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) from [Peking University](https://english.pku.edu.cn/) and bachelor degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/), China. 
+&emsp;&ensp;  My interests are topological data analysis, machine learning and bioinformatics. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives. I received my master degree in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) from [Peking University](https://english.pku.edu.cn/) and bachelor degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/). 
 
 &emsp;&ensp; My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
@@ -16,14 +16,14 @@ redirect_from:
 
 
 ## Education Background
-+ B.S. in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm), [Shandong University](https://www.en.sdu.edu.cn/), China, 2015.9--2019.6
++ B.S. in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm), [Shandong University](https://www.en.sdu.edu.cn/), 2015.9--2019.6
   - Major: Computational Mathematics
   - Grades: 4.57/5
   - Ranking: 1/28 ([certificate](https://alexli8.github.io/files/ranking.pdf))
   - Academic Transcript: [English version](https://alexli8.github.io/files/english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/chinese%20transcipt.pdf)
 <!--   - Thesis: A Survey on Graph Neural Network -->
 <!--   - Advised by Prof. [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm) -->
-+ M.S. in [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/),  China, 2019.9--2022.6
++ M.S. in [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), 2019.9--2022.6
   - Major: Computer Science
   - Grades: 3.32/4
   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
