@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  My interests are topological data analysis, machine learning and bioinformatics. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives.   
-
-&emsp;&ensp; I received my master degree in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) from [Peking University](https://english.pku.edu.cn/) and bachelor degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/), China. 
+&emsp;&ensp;  My interests are topological data analysis, machine learning and bioinformatics. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives. I received my master degree in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) from [Peking University](https://english.pku.edu.cn/) and bachelor degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/), China. 
 
 &emsp;&ensp; My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
