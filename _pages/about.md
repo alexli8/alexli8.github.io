@@ -14,7 +14,7 @@ My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [nation
 
 During postgraduate studies, I ran a startup with my classmates, which aimed to provide convenient information services for college students. Though our attempts failed, I gained lots of valuable experience and identified my goal for life, which is to think and solve meaningful problems for human society. 
 
-I am going to apply Ph.D position in combinations of topological data analysis, machine learning and bioinformatics in 2023. Below are my detailed experiences and electronic materials.  
+I'm going to apply Ph.D position in combinations of topological data analysis, machine learning and bioinformatics in 2023. Below are my detailed experiences and electronic materials.  
 
 
 ## Education Background
