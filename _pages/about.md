@@ -26,6 +26,7 @@ redirect_from:
 + M.S. in [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), 2019.9--2022.6
   - Major: Computer Science
   - Grades: 3.32/4
+  - Ranking: 39/104
   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf)
 <!--   - Advised by Prof. [Xiangqun Chen](https://eecs.pku.edu.cn/info/1338/7117.htm) -->
   - Note: Professional Master Degree
