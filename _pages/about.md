@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&ensp;  My research interests are topological data analysis, machine learning and bioinformatics. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives. I received my master degree in the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/en/) from [Peking University](https://english.pku.edu.cn/) and bachelor degree in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm) from [Shandong University](https://www.en.sdu.edu.cn/). 
+&emsp;&ensp;  My research interests are topological data analysis, machine learning and bioinformatics. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives. I received my master's degree from [Peking University](https://english.pku.edu.cn/) and bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/). 
 
-&emsp;&ensp; My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I participated in many mathematical competitions and mathematical modeling contests, which help me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
+&emsp;&ensp; My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I took part in many mathematical competitions and mathematical modeling contests, which helped me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
-&emsp;&ensp;  From 2020 to 2021, I chose to run a starups with my classmates. Though our attempts failed, I gained lots of valuable experience and figured out my goal for life, which is to think and solve significant problems for human society. I am going to apply Ph.D position in combinations of topological data analysis, machine learning and bioinformatics in 2023. Below are my detailed experiences and corresponding electronic materials.  
+&emsp;&ensp;  During postgraduate studies, I ran a startup with my classmates, which aimed to provide convenient information services for college students. Though our attempts failed, I gained lots of valuable experience and identified my goal for life, which is to think and solve meaningful problems for human society. I am going to apply Ph.D position in combinations of topological data analysis, machine learning and bioinformatics in 2023. Below are my detailed experiences and electronic materials.  
 
 
 ## Education Background
@@ -34,15 +34,15 @@ redirect_from:
 
 ## Internships & Startups
 + Engineer in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--now
-  + Storage system  and parallel file system research includes lustre, EOS and openZFS.
-  + Information system development for AMS data center.
-  + Summer school in [IHEP School of Computing](http://www.ihep.cas.cn/), China, 2021.8 ([certificate](https://alexli8.github.io/files/%E6%88%90%E7%BB%A9%E4%BC%98%E7%A7%80%E8%AF%81%E4%B9%A6-%E6%9D%8E%E6%96%8C.jpg))
-+ Course development intern in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
-  + Development of [National Olympiad in Informatics](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B) courses for middle school students expecially in Computational Geometry.
-  + Planning and holding Coduck Training Summer Camp.
-+ Manager and engineer in Anseek Information Technology Ltd. China, 2020.3--2021.1
-  + Managing the Contents team to produce passages and videos for offcial accounts.
-  + Developing news recommendation web application which can provide different educational information to different students. 
+  + Maintaining the file system and networks of AMS data center.
+  + Developing information system for AMS data center.
+  + Storage system and parallel file system research includes Lustre and EOS.
++ Course development teacher in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
+  + Developing National Olympiad in Informatics courses for middle school students.
+  + Planning and holding Coduck Training Summer Camp and ACM Challenges for Middle School.
++ Co-founder and manager in Anseek Information Technology Ltd. China, 2020.3--2021.1
+  + Managing the contents team to produce passages and videos for company.
+  + Developing news recommendation application which provides educational information to students.
 
 
 ## Competitions & Awards
