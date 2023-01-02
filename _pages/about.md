@@ -10,7 +10,7 @@ redirect_from:
 
 My research interests are machine learning, bioinformatics and topological data analysis. Especially, I am curious about the machine learning application for molecular from topology and geometry perspectives. I received my master's degree from [Peking University](https://english.pku.edu.cn/) and bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/). 
 
-My undergraduate grade point was 4.56/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I took part in many mathematical competitions and mathematical modeling contests, which helped me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
+My undergraduate grade point was 4.57/5 which ranked 1/28, and I got one [national scholarship](https://alexli8.github.io/files/national%20scholarship.pdf) and two [first-class scholarships](https://alexli8.github.io/files/fitst%20scholarship.pdf) at Shandong University. I took part in many mathematical competitions and mathematical modeling contests, which helped me cultivate a solid foundation of mathematics and highly motivation to solve challenging problems. 
 
 During postgraduate studies, I ran a startup with my classmates, which aimed to provide convenient information services for college students. Though our attempts failed, I gained lots of valuable experience and identified my goal for life, which is to think and solve meaningful problems for human society. 
 
