@@ -14,8 +14,6 @@ My undergraduate grade point was 4.57/5 which ranked 1/28, and I got one [nation
 
 During postgraduate studies, I ran a startup with my classmates, which aimed to provide convenient information services for college students. Though our attempts failed, I gained lots of valuable experience and identified my goal for life, which is to think and solve meaningful problems for human society. 
 
-I'm going to apply Ph.D position in combinations of machine learning, bioinformatics and topological data analysis in 2023. Below are my detailed experiences and electronic materials.  
-
 
 ## Education Background
 + B.S. in [School of Mathemathics](https://www.math.sdu.edu.cn/index.htm), [Shandong University](https://www.en.sdu.edu.cn/), 2015.9--2019.6
@@ -35,12 +33,12 @@ I'm going to apply Ph.D position in combinations of machine learning, bioinforma
 <!--   - Academic Transcript: [English version](https://alexli8.github.io/files/master%20english%20transcript.pdf), [Chinese version](https://alexli8.github.io/files/master%20chinese%20transcript.pdf) -->
 
 
-## Internships & Startups
-+ Engineer in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2021.7--now
+## Internship & Work
++ Engineer in AMS data center of [Shandong Institute of Advanced Technology](http://www.sdiat.cn/), China, 2022.7--now
   + Maintaining the file system and networks of AMS data center.
   + Developing information system for AMS data center.
   + Storage system and parallel file system research includes Lustre and EOS.
-+ Course development teacher in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.6
++ Course development teacher in [Coduck Education Technology Ltd.](https://www.coduck.cn/) China, 2021.3--2021.12
   + Developing National Olympiad in Informatics courses for middle school students.
   + Planning and holding Coduck Training Summer Camp and ACM Challenges for Middle School.
 + Co-founder and manager in Anseek Information Technology Ltd. China, 2020.3--2021.1
@@ -100,5 +98,3 @@ I'm going to apply Ph.D position in combinations of machine learning, bioinforma
 + [English version](https://alexli8.github.io/files/cv.pdf)
 + [Chinese version](https://alexli8.github.io/files/李斌中文简历.pdf)
 
-## Channels
-* bilibili: [案寻谨川](https://space.bilibili.com/457802405)
